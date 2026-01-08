@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+tensorflow
+pandas
+numpy
+scikit-learn
+joblibfastapi
+uvicorn
+tensorflow
+pandas
+numpy
+scikit-learn
+joblib
+supabase
+python-dotenv
