@@ -14,7 +14,7 @@
 
 
 | **Operator Console** |
-|:---:|:---:|
+
 
 
 <img width="1915" height="1013" alt="Screenshot 2026-01-09 055110" src="https://github.com/user-attachments/assets/b0adabe6-fb8f-4771-aee2-fd880020894a" />
