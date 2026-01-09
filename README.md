@@ -19,7 +19,10 @@
 
 <img width="1915" height="1013" alt="Screenshot 2026-01-09 055110" src="https://github.com/user-attachments/assets/b0adabe6-fb8f-4771-aee2-fd880020894a" />
 
-| **Developer Profile** |
+| **User Manual** |
+<img width="1919" height="1024" alt="Screenshot 2026-01-09 060207" src="https://github.com/user-attachments/assets/82debf35-6164-4cff-9bcf-cb1fba062c72" />
+
+| **Developer Page** |
 <img width="1919" height="1026" alt="Screenshot 2026-01-09 051948" src="https://github.com/user-attachments/assets/91f189ab-41a7-4349-bf8f-dd1d2d31c8ac" />
 
 ---
