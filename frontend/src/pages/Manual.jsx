@@ -22,7 +22,7 @@ const installSteps = [
             <Download size={24} /> Download Now
           </button>
         </a>
-        <p className="mt-4 text-white/60 text-xs">Size: ~6 MB (Includes AI Model)</p>
+        <p className="mt-4 text-white/60 text-xs">(AI Model)</p>
       </div>
     )
   },
